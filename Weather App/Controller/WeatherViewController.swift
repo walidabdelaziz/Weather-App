@@ -38,7 +38,7 @@ class WeatherViewController: UIViewController {
    
 }
 
-// Mark: -CLLocationManagerDelegate
+//MARK: -CLLocationManagerDelegate
 
 extension WeatherViewController: CLLocationManagerDelegate{
     
